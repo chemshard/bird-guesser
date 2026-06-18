@@ -248,7 +248,6 @@ function wireEvents() {
 }
 
 function init() {
-  $("birdCount").textContent = window.BIRD_DATABASE.length;
   wireEvents();
 }
 
