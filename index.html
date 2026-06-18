@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Singapore Bird Guesser</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+
+  <main class="app-shell">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">zero-ai 20 questions</p>
+        <h1>Singapore Bird Guesser</h1>
+        <p class="subhead">Think of a Singapore bird. Answer yes/no/not sure, and the app will try to corner your bird like a very nerdy detective.</p>
+      </div>
+      <div class="hero-card">
+        <span class="hero-emoji">🐦</span>
+        <p><strong id="birdCount">0</strong> birds loaded</p>
+        <p><strong>20</strong> max questions</p>
+      </div>
+    </section>
+
+    <section class="panel" id="startPanel">
+      <h2>Pick a mode</h2>
+      <p class="muted">Common mode is better for casual players. Full starter database includes more migrants, waterbirds, raptors, owls and forest birds.</p>
+      <div class="mode-grid">
+        <button class="mode-card" data-mode="common">
+          <span>🌆</span>
+          <strong>Common mode</strong>
+          <small>NParks Garden Bird Watch species + familiar extras</small>
+        </button>
+        <button class="mode-card" data-mode="all">
+          <span>🌿</span>
+          <strong>Full starter database</strong>
+          <small>Harder, more species, more chaos</small>
+        </button>
+      </div>
+    </section>
+
+    <section class="panel hidden" id="gamePanel">
+      <div class="top-row">
+        <div>
+          <p class="eyebrow" id="modeLabel">common mode</p>
+          <h2 id="mainTitle">Question</h2>
+        </div>
+        <div class="stats-pill"><span id="turnText">0/20</span><span>•</span><span id="remainingText">0 left</span></div>
+      </div>
+
+      <div class="progress-wrap"><div id="progressBar"></div></div>
+
+      <article class="question-card" id="questionCard">
+        <p class="question" id="questionText">Loading question...</p>
+        <div class="answer-row">
+          <button class="answer yes" data-answer="yes">Yes</button>
+          <button class="answer no" data-answer="no">No</button>
+          <button class="answer unknown" data-answer="unknown">Not sure</button>
+        </div>
+      </article>
+
+      <article class="guess-card hidden" id="guessCard">
+        <p class="muted" id="guessIntro">My guess is...</p>
+        <div id="guessList"></div>
+        <div class="button-row">
+          <button id="playAgainBtn">Play again</button>
+          <button class="secondary" id="tryAllBtn">Try full database</button>
+        </div>
+      </article>
+
+      <details class="debug-box">
+        <summary>Show remaining candidates</summary>
+        <div id="candidateList" class="candidate-list"></div>
+      </details>
+
+      <div class="footer-actions">
+        <button class="secondary" id="undoBtn">Undo</button>
+        <button class="secondary" id="restartBtn">Restart</button>
+      </div>
+    </section>
+
+    <section class="panel hidden" id="historyPanel">
+      <h2>Answer history</h2>
+      <ol id="historyList"></ol>
+    </section>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
