@@ -1,0 +1,2217 @@
+{
+  "birds": [
+    {
+      "name": "Javan Myna",
+      "scientific": "Acridotheres javanicus",
+      "mode": "common",
+      "group": "Urban birds",
+      "size": "medium",
+      "main_colors": [
+        "black",
+        "white",
+        "brown"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "grassland"
+      ],
+      "traits": [
+        "blackish",
+        "white wing patches",
+        "walks on ground",
+        "flock",
+        "yellow bill"
+      ],
+      "notes": "Very common urban bird. Blackish-brown with white wing patches, yellow bill and yellow legs."
+    },
+    {
+      "name": "Common Myna",
+      "scientific": "Acridotheres tristis",
+      "mode": "all",
+      "group": "Urban birds",
+      "size": "medium",
+      "main_colors": [
+        "brown",
+        "black",
+        "yellow"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "grassland"
+      ],
+      "traits": [
+        "brown body",
+        "black head",
+        "yellow bare skin",
+        "walks on ground",
+        "flock"
+      ],
+      "notes": "Brown myna with black head and yellow bare skin behind the eye."
+    },
+    {
+      "name": "Asian Koel",
+      "scientific": "Eudynamys scolopaceus",
+      "mode": "common",
+      "group": "Cuckoos",
+      "size": "large",
+      "main_colors": [
+        "black",
+        "brown"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "long tail",
+        "red eye",
+        "loud call",
+        "night call",
+        "sexually dimorphic"
+      ],
+      "notes": "Male is glossy black with red eyes; female is brown and spotted. Famous for loud calls."
+    },
+    {
+      "name": "House Crow",
+      "scientific": "Corvus splendens",
+      "mode": "common",
+      "group": "Urban birds",
+      "size": "large",
+      "main_colors": [
+        "black",
+        "grey"
+      ],
+      "habitats": [
+        "urban",
+        "coast"
+      ],
+      "traits": [
+        "crow shape",
+        "grey neck",
+        "large",
+        "scavenger",
+        "flock"
+      ],
+      "notes": "Urban crow with black body and greyish neck/breast."
+    },
+    {
+      "name": "Rock Pigeon",
+      "scientific": "Columba livia",
+      "mode": "common",
+      "group": "Pigeons & doves",
+      "size": "medium",
+      "main_colors": [
+        "grey",
+        "white"
+      ],
+      "habitats": [
+        "urban"
+      ],
+      "traits": [
+        "pigeon shape",
+        "grey body",
+        "iridescent neck",
+        "flock",
+        "walks on ground"
+      ],
+      "notes": "The usual city pigeon; grey with iridescent neck, variable plumage."
+    },
+    {
+      "name": "Spotted Dove",
+      "scientific": "Spilopelia chinensis",
+      "mode": "common",
+      "group": "Pigeons & doves",
+      "size": "medium",
+      "main_colors": [
+        "brown",
+        "grey",
+        "white"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "grassland"
+      ],
+      "traits": [
+        "scaled neck patch",
+        "long tail",
+        "walks on ground",
+        "soft call"
+      ],
+      "notes": "Brown dove with distinctive black-and-white spotted collar patch."
+    },
+    {
+      "name": "Zebra Dove",
+      "scientific": "Geopelia striata",
+      "mode": "common",
+      "group": "Pigeons & doves",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "grey"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "grassland"
+      ],
+      "traits": [
+        "barred body",
+        "small dove",
+        "long tail",
+        "walks on ground"
+      ],
+      "notes": "Small slim dove with fine barring across body."
+    },
+    {
+      "name": "Pink-necked Green Pigeon",
+      "scientific": "Treron vernans",
+      "mode": "common",
+      "group": "Pigeons & doves",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "pink",
+        "orange"
+      ],
+      "habitats": [
+        "park",
+        "forest edge",
+        "urban"
+      ],
+      "traits": [
+        "green body",
+        "fruit eater",
+        "flock",
+        "colourful male"
+      ],
+      "notes": "Green pigeon; male has pink neck and orange breast."
+    },
+    {
+      "name": "Yellow-vented Bulbul",
+      "scientific": "Pycnonotus goiavier",
+      "mode": "common",
+      "group": "Garden birds",
+      "size": "medium",
+      "main_colors": [
+        "brown",
+        "white",
+        "yellow"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "scrub",
+        "forest edge"
+      ],
+      "traits": [
+        "yellow vent",
+        "slight crest",
+        "brownish",
+        "common garden bird"
+      ],
+      "notes": "Common garden bird with brown upperparts, whitish underside and yellow vent."
+    },
+    {
+      "name": "Black-naped Oriole",
+      "scientific": "Oriolus chinensis",
+      "mode": "common",
+      "group": "Garden birds",
+      "size": "medium",
+      "main_colors": [
+        "yellow",
+        "black"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "bright yellow",
+        "black eye stripe",
+        "tree canopy"
+      ],
+      "notes": "Bright yellow bird with black nape/eye stripe."
+    },
+    {
+      "name": "Olive-backed Sunbird",
+      "scientific": "Cinnyris jugularis",
+      "mode": "common",
+      "group": "Sunbirds & flowerpeckers",
+      "size": "tiny",
+      "main_colors": [
+        "yellow",
+        "olive",
+        "blue"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "mangrove"
+      ],
+      "traits": [
+        "tiny",
+        "curved bill",
+        "nectar feeder",
+        "yellow belly",
+        "metallic throat"
+      ],
+      "notes": "Tiny nectar-feeding bird; male has metallic blue-black throat and yellow belly."
+    },
+    {
+      "name": "Brown-throated Sunbird",
+      "scientific": "Anthreptes malacensis",
+      "mode": "common",
+      "group": "Sunbirds & flowerpeckers",
+      "size": "tiny",
+      "main_colors": [
+        "brown",
+        "yellow",
+        "green"
+      ],
+      "habitats": [
+        "park",
+        "mangrove",
+        "forest edge"
+      ],
+      "traits": [
+        "tiny",
+        "curved bill",
+        "nectar feeder",
+        "brown throat",
+        "large sunbird"
+      ],
+      "notes": "Larger sunbird with brown throat and yellowish underparts."
+    },
+    {
+      "name": "Scarlet-backed Flowerpecker",
+      "scientific": "Dicaeum cruentatum",
+      "mode": "common",
+      "group": "Sunbirds & flowerpeckers",
+      "size": "tiny",
+      "main_colors": [
+        "red",
+        "black",
+        "white"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "tiny",
+        "red back",
+        "short bill",
+        "tree canopy"
+      ],
+      "notes": "Very small bird; male has vivid red upperparts and black head."
+    },
+    {
+      "name": "Common Iora",
+      "scientific": "Aegithina tiphia",
+      "mode": "common",
+      "group": "Garden birds",
+      "size": "small",
+      "main_colors": [
+        "yellow",
+        "green",
+        "black"
+      ],
+      "habitats": [
+        "park",
+        "forest edge",
+        "urban"
+      ],
+      "traits": [
+        "small",
+        "yellow green",
+        "wing bars",
+        "tree canopy"
+      ],
+      "notes": "Small yellow-green bird often moving through trees and shrubs."
+    },
+    {
+      "name": "Oriental Magpie-robin",
+      "scientific": "Copsychus saularis",
+      "mode": "common",
+      "group": "Garden birds",
+      "size": "small",
+      "main_colors": [
+        "black",
+        "white"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "black and white",
+        "long tail",
+        "upright posture",
+        "songster"
+      ],
+      "notes": "Black-and-white songbird with long tail often held upright."
+    },
+    {
+      "name": "Asian Glossy Starling",
+      "scientific": "Aplonis panayensis",
+      "mode": "common",
+      "group": "Urban birds",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "black"
+      ],
+      "habitats": [
+        "urban",
+        "park"
+      ],
+      "traits": [
+        "glossy",
+        "red eye",
+        "flock",
+        "iridescent"
+      ],
+      "notes": "Glossy green-black starling with red eyes, often in noisy flocks."
+    },
+    {
+      "name": "Coppersmith Barbet",
+      "scientific": "Psilopogon haemacephalus",
+      "mode": "common",
+      "group": "Garden birds",
+      "size": "small",
+      "main_colors": [
+        "green",
+        "red",
+        "yellow"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "green body",
+        "red forehead",
+        "repetitive call",
+        "fruit eater",
+        "chunky bill"
+      ],
+      "notes": "Small green barbet with red/yellow face; famous for metallic tuk-tuk call."
+    },
+    {
+      "name": "Common Tailorbird",
+      "scientific": "Orthotomus sutorius",
+      "mode": "common",
+      "group": "Garden birds",
+      "size": "tiny",
+      "main_colors": [
+        "green",
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "scrub"
+      ],
+      "traits": [
+        "tiny",
+        "long tail",
+        "often in shrubs",
+        "loud call"
+      ],
+      "notes": "Tiny active bird in shrubs with a loud repetitive call."
+    },
+    {
+      "name": "Brown Shrike",
+      "scientific": "Lanius cristatus",
+      "mode": "all",
+      "group": "Migrants",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "park",
+        "scrub",
+        "open country"
+      ],
+      "traits": [
+        "brown mask",
+        "hooked bill",
+        "perches openly",
+        "migrant"
+      ],
+      "notes": "Winter visitor; brown shrike with dark mask and hooked bill."
+    },
+    {
+      "name": "White-rumped Munia",
+      "scientific": "Lonchura striata",
+      "mode": "common",
+      "group": "Finches & munias",
+      "size": "tiny",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "grassland",
+        "park",
+        "urban"
+      ],
+      "traits": [
+        "tiny",
+        "flock",
+        "seed eater",
+        "white rump"
+      ],
+      "notes": "Small brown seed-eating bird often in flocks."
+    },
+    {
+      "name": "Scaly-breasted Munia",
+      "scientific": "Lonchura punctulata",
+      "mode": "common",
+      "group": "Finches & munias",
+      "size": "tiny",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "grassland",
+        "park",
+        "urban"
+      ],
+      "traits": [
+        "tiny",
+        "flock",
+        "scaly breast",
+        "seed eater"
+      ],
+      "notes": "Small munia with scaly-looking underparts."
+    },
+    {
+      "name": "Baya Weaver",
+      "scientific": "Ploceus philippinus",
+      "mode": "all",
+      "group": "Finches & munias",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "yellow"
+      ],
+      "habitats": [
+        "grassland",
+        "wetland",
+        "scrub"
+      ],
+      "traits": [
+        "woven nest",
+        "flock",
+        "seed eater",
+        "yellow breeding male"
+      ],
+      "notes": "Weaver bird; males build hanging woven nests."
+    },
+    {
+      "name": "Collared Kingfisher",
+      "scientific": "Todiramphus chloris",
+      "mode": "common",
+      "group": "Kingfishers",
+      "size": "medium",
+      "main_colors": [
+        "blue",
+        "white"
+      ],
+      "habitats": [
+        "coast",
+        "mangrove",
+        "park",
+        "urban",
+        "wetland"
+      ],
+      "traits": [
+        "kingfisher shape",
+        "long bill",
+        "blue upperparts",
+        "white collar",
+        "loud call"
+      ],
+      "notes": "Blue-and-white kingfisher common near coasts, canals, parks and mangroves."
+    },
+    {
+      "name": "White-throated Kingfisher",
+      "scientific": "Halcyon smyrnensis",
+      "mode": "common",
+      "group": "Kingfishers",
+      "size": "large",
+      "main_colors": [
+        "blue",
+        "brown",
+        "white",
+        "red"
+      ],
+      "habitats": [
+        "wetland",
+        "park",
+        "urban"
+      ],
+      "traits": [
+        "kingfisher shape",
+        "long red bill",
+        "white throat",
+        "blue wings",
+        "brown head"
+      ],
+      "notes": "Large colourful kingfisher with brown head, white throat, blue wings and red bill."
+    },
+    {
+      "name": "Common Kingfisher",
+      "scientific": "Alcedo atthis",
+      "mode": "all",
+      "group": "Kingfishers",
+      "size": "small",
+      "main_colors": [
+        "blue",
+        "orange"
+      ],
+      "habitats": [
+        "wetland",
+        "stream",
+        "mangrove"
+      ],
+      "traits": [
+        "kingfisher shape",
+        "tiny",
+        "electric blue",
+        "orange underside",
+        "long bill"
+      ],
+      "notes": "Small electric-blue and orange kingfisher seen near water."
+    },
+    {
+      "name": "Blue-eared Kingfisher",
+      "scientific": "Alcedo meninting",
+      "mode": "all",
+      "group": "Kingfishers",
+      "size": "small",
+      "main_colors": [
+        "blue",
+        "orange"
+      ],
+      "habitats": [
+        "forest stream",
+        "wetland"
+      ],
+      "traits": [
+        "kingfisher shape",
+        "tiny",
+        "blue ear coverts",
+        "orange underside",
+        "forest water"
+      ],
+      "notes": "Small forest kingfisher similar to Common Kingfisher but with blue ear coverts."
+    },
+    {
+      "name": "Stork-billed Kingfisher",
+      "scientific": "Pelargopsis capensis",
+      "mode": "all",
+      "group": "Kingfishers",
+      "size": "large",
+      "main_colors": [
+        "blue",
+        "brown",
+        "orange",
+        "red"
+      ],
+      "habitats": [
+        "wetland",
+        "mangrove",
+        "reservoir"
+      ],
+      "traits": [
+        "kingfisher shape",
+        "very large bill",
+        "red bill",
+        "blue wings",
+        "large"
+      ],
+      "notes": "Large kingfisher with massive red bill."
+    },
+    {
+      "name": "Black-capped Kingfisher",
+      "scientific": "Halcyon pileata",
+      "mode": "all",
+      "group": "Kingfishers",
+      "size": "medium",
+      "main_colors": [
+        "blue",
+        "white",
+        "black",
+        "red"
+      ],
+      "habitats": [
+        "mangrove",
+        "coast",
+        "wetland"
+      ],
+      "traits": [
+        "kingfisher shape",
+        "black cap",
+        "red bill",
+        "migrant"
+      ],
+      "notes": "Migrant kingfisher with black cap, white collar, blue back and red bill."
+    },
+    {
+      "name": "Little Egret",
+      "scientific": "Egretta garzetta",
+      "mode": "common",
+      "group": "Herons & egrets",
+      "size": "large",
+      "main_colors": [
+        "white"
+      ],
+      "habitats": [
+        "wetland",
+        "coast",
+        "mangrove",
+        "canal"
+      ],
+      "traits": [
+        "white waterbird",
+        "long legs",
+        "long bill",
+        "wader shape",
+        "black bill"
+      ],
+      "notes": "White egret with long black bill and long black legs."
+    },
+    {
+      "name": "Great Egret",
+      "scientific": "Ardea alba",
+      "mode": "all",
+      "group": "Herons & egrets",
+      "size": "very large",
+      "main_colors": [
+        "white"
+      ],
+      "habitats": [
+        "wetland",
+        "coast",
+        "mangrove"
+      ],
+      "traits": [
+        "white waterbird",
+        "very large",
+        "long neck",
+        "long legs",
+        "yellow bill"
+      ],
+      "notes": "Large white egret with long neck; usually bigger than Little Egret."
+    },
+    {
+      "name": "Intermediate Egret",
+      "scientific": "Ardea intermedia",
+      "mode": "all",
+      "group": "Herons & egrets",
+      "size": "large",
+      "main_colors": [
+        "white"
+      ],
+      "habitats": [
+        "wetland",
+        "grassland"
+      ],
+      "traits": [
+        "white waterbird",
+        "long neck",
+        "long legs",
+        "yellow bill"
+      ],
+      "notes": "White egret intermediate in size between Little and Great Egret."
+    },
+    {
+      "name": "Cattle Egret",
+      "scientific": "Bubulcus ibis",
+      "mode": "common",
+      "group": "Herons & egrets",
+      "size": "medium",
+      "main_colors": [
+        "white",
+        "orange"
+      ],
+      "habitats": [
+        "grassland",
+        "urban",
+        "wetland"
+      ],
+      "traits": [
+        "white waterbird",
+        "short neck",
+        "orange breeding plumes",
+        "often on grass"
+      ],
+      "notes": "Stockier white egret, often on fields; breeding birds show buff-orange plumes."
+    },
+    {
+      "name": "Grey Heron",
+      "scientific": "Ardea cinerea",
+      "mode": "common",
+      "group": "Herons & egrets",
+      "size": "very large",
+      "main_colors": [
+        "grey",
+        "white",
+        "black"
+      ],
+      "habitats": [
+        "wetland",
+        "coast",
+        "mangrove",
+        "reservoir"
+      ],
+      "traits": [
+        "very large",
+        "grey waterbird",
+        "long neck",
+        "long legs",
+        "wader shape"
+      ],
+      "notes": "Very large grey heron with long neck and legs."
+    },
+    {
+      "name": "Purple Heron",
+      "scientific": "Ardea purpurea",
+      "mode": "all",
+      "group": "Herons & egrets",
+      "size": "very large",
+      "main_colors": [
+        "brown",
+        "purple",
+        "grey"
+      ],
+      "habitats": [
+        "wetland",
+        "reedbed"
+      ],
+      "traits": [
+        "long neck",
+        "long legs",
+        "slender heron",
+        "brownish"
+      ],
+      "notes": "Slender heron with warm brown/purplish tones, often in reeds."
+    },
+    {
+      "name": "Striated Heron",
+      "scientific": "Butorides striata",
+      "mode": "all",
+      "group": "Herons & egrets",
+      "size": "medium",
+      "main_colors": [
+        "grey",
+        "green",
+        "white"
+      ],
+      "habitats": [
+        "wetland",
+        "mangrove",
+        "canal"
+      ],
+      "traits": [
+        "small heron",
+        "hunched posture",
+        "short legs",
+        "water edge"
+      ],
+      "notes": "Small dark heron often hunched at water edges."
+    },
+    {
+      "name": "Black-crowned Night Heron",
+      "scientific": "Nycticorax nycticorax",
+      "mode": "all",
+      "group": "Herons & egrets",
+      "size": "large",
+      "main_colors": [
+        "black",
+        "grey",
+        "white"
+      ],
+      "habitats": [
+        "wetland",
+        "mangrove"
+      ],
+      "traits": [
+        "night active",
+        "red eye",
+        "black crown",
+        "stocky heron"
+      ],
+      "notes": "Stocky heron with black crown/back and red eyes; often active at dusk/night."
+    },
+    {
+      "name": "Yellow Bittern",
+      "scientific": "Ixobrychus sinensis",
+      "mode": "all",
+      "group": "Herons & egrets",
+      "size": "small",
+      "main_colors": [
+        "yellow",
+        "brown"
+      ],
+      "habitats": [
+        "wetland",
+        "reedbed"
+      ],
+      "traits": [
+        "small heron",
+        "yellowish",
+        "cryptic",
+        "reedbed"
+      ],
+      "notes": "Small yellowish bittern that hides in vegetation."
+    },
+    {
+      "name": "White-breasted Waterhen",
+      "scientific": "Amaurornis phoenicurus",
+      "mode": "common",
+      "group": "Rails & waterhens",
+      "size": "medium",
+      "main_colors": [
+        "black",
+        "white",
+        "grey"
+      ],
+      "habitats": [
+        "wetland",
+        "canal",
+        "park",
+        "urban"
+      ],
+      "traits": [
+        "white face and breast",
+        "long legs",
+        "rail shape",
+        "water edge"
+      ],
+      "notes": "Dark rail-like bird with white face/breast, common near drains and ponds."
+    },
+    {
+      "name": "Common Moorhen",
+      "scientific": "Gallinula chloropus",
+      "mode": "all",
+      "group": "Rails & waterhens",
+      "size": "medium",
+      "main_colors": [
+        "black",
+        "red",
+        "yellow"
+      ],
+      "habitats": [
+        "wetland",
+        "pond"
+      ],
+      "traits": [
+        "swims",
+        "red bill shield",
+        "rail shape",
+        "waterbird"
+      ],
+      "notes": "Dark waterbird with red bill shield, often swimming near vegetation."
+    },
+    {
+      "name": "Lesser Whistling Duck",
+      "scientific": "Dendrocygna javanica",
+      "mode": "common",
+      "group": "Ducks",
+      "size": "large",
+      "main_colors": [
+        "brown"
+      ],
+      "habitats": [
+        "wetland",
+        "pond",
+        "reservoir"
+      ],
+      "traits": [
+        "duck shape",
+        "swims",
+        "brown",
+        "flock",
+        "whistling call"
+      ],
+      "notes": "Brown duck often in groups on ponds and reservoirs."
+    },
+    {
+      "name": "Little Grebe",
+      "scientific": "Tachybaptus ruficollis",
+      "mode": "all",
+      "group": "Waterbirds",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "chestnut"
+      ],
+      "habitats": [
+        "pond",
+        "reservoir",
+        "wetland"
+      ],
+      "traits": [
+        "swims",
+        "dives",
+        "small waterbird",
+        "round body"
+      ],
+      "notes": "Small diving waterbird with rounded body."
+    },
+    {
+      "name": "Common Sandpiper",
+      "scientific": "Actitis hypoleucos",
+      "mode": "all",
+      "group": "Shorebirds",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "coast",
+        "wetland",
+        "canal"
+      ],
+      "traits": [
+        "wader shape",
+        "tail bobbing",
+        "small",
+        "migrant",
+        "water edge"
+      ],
+      "notes": "Small brown-and-white migrant wader, often bobbing its tail."
+    },
+    {
+      "name": "Whimbrel",
+      "scientific": "Numenius phaeopus",
+      "mode": "all",
+      "group": "Shorebirds",
+      "size": "large",
+      "main_colors": [
+        "brown"
+      ],
+      "habitats": [
+        "coast",
+        "mudflat",
+        "mangrove"
+      ],
+      "traits": [
+        "long curved bill",
+        "wader shape",
+        "large shorebird",
+        "migrant"
+      ],
+      "notes": "Large shorebird with long downcurved bill."
+    },
+    {
+      "name": "Pacific Golden Plover",
+      "scientific": "Pluvialis fulva",
+      "mode": "all",
+      "group": "Shorebirds",
+      "size": "medium",
+      "main_colors": [
+        "brown",
+        "gold",
+        "black"
+      ],
+      "habitats": [
+        "coast",
+        "mudflat",
+        "grassland"
+      ],
+      "traits": [
+        "plover shape",
+        "migrant",
+        "gold speckling",
+        "short bill"
+      ],
+      "notes": "Migratory plover with golden-spangled upperparts."
+    },
+    {
+      "name": "Redshank",
+      "scientific": "Tringa totanus",
+      "mode": "all",
+      "group": "Shorebirds",
+      "size": "medium",
+      "main_colors": [
+        "brown",
+        "white",
+        "red"
+      ],
+      "habitats": [
+        "coast",
+        "mudflat"
+      ],
+      "traits": [
+        "red legs",
+        "wader shape",
+        "migrant",
+        "long bill"
+      ],
+      "notes": "Medium wader with orange-red legs."
+    },
+    {
+      "name": "Little Tern",
+      "scientific": "Sternula albifrons",
+      "mode": "all",
+      "group": "Terns",
+      "size": "small",
+      "main_colors": [
+        "white",
+        "grey",
+        "black"
+      ],
+      "habitats": [
+        "coast",
+        "reservoir"
+      ],
+      "traits": [
+        "tern shape",
+        "pointed wings",
+        "dives for fish",
+        "small"
+      ],
+      "notes": "Small tern with sharp wings and hovering/diving behaviour."
+    },
+    {
+      "name": "Brahminy Kite",
+      "scientific": "Haliastur indus",
+      "mode": "common",
+      "group": "Raptors",
+      "size": "large",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "coast",
+        "reservoir",
+        "urban",
+        "wetland"
+      ],
+      "traits": [
+        "raptor shape",
+        "hooked bill",
+        "white head",
+        "brown wings",
+        "soars"
+      ],
+      "notes": "Raptor with white head/chest and reddish-brown wings."
+    },
+    {
+      "name": "White-bellied Sea Eagle",
+      "scientific": "Icthyophaga leucogaster",
+      "mode": "common",
+      "group": "Raptors",
+      "size": "very large",
+      "main_colors": [
+        "white",
+        "grey"
+      ],
+      "habitats": [
+        "coast",
+        "reservoir"
+      ],
+      "traits": [
+        "raptor shape",
+        "very large",
+        "white belly",
+        "soars",
+        "near water"
+      ],
+      "notes": "Huge raptor, mostly white below with grey wings; often near coasts/reservoirs."
+    },
+    {
+      "name": "Changeable Hawk-Eagle",
+      "scientific": "Nisaetus cirrhatus",
+      "mode": "all",
+      "group": "Raptors",
+      "size": "large",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "forest",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "raptor shape",
+        "crest sometimes",
+        "hooked bill",
+        "soars"
+      ],
+      "notes": "Large forest/woodland raptor; may show a crest."
+    },
+    {
+      "name": "Black Baza",
+      "scientific": "Aviceda leuphotes",
+      "mode": "all",
+      "group": "Raptors",
+      "size": "medium",
+      "main_colors": [
+        "black",
+        "white",
+        "chestnut"
+      ],
+      "habitats": [
+        "forest",
+        "park"
+      ],
+      "traits": [
+        "raptor shape",
+        "crest",
+        "migrant",
+        "flock"
+      ],
+      "notes": "Distinctive migratory raptor with crest and bold black-white patterning."
+    },
+    {
+      "name": "Japanese Sparrowhawk",
+      "scientific": "Accipiter gularis",
+      "mode": "all",
+      "group": "Raptors",
+      "size": "small",
+      "main_colors": [
+        "grey",
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "forest",
+        "park",
+        "urban"
+      ],
+      "traits": [
+        "raptor shape",
+        "small hawk",
+        "migrant",
+        "barred underside"
+      ],
+      "notes": "Small migrant accipiter, often seen during migration season."
+    },
+    {
+      "name": "Peregrine Falcon",
+      "scientific": "Falco peregrinus",
+      "mode": "all",
+      "group": "Raptors",
+      "size": "large",
+      "main_colors": [
+        "grey",
+        "white",
+        "black"
+      ],
+      "habitats": [
+        "coast",
+        "urban",
+        "open country"
+      ],
+      "traits": [
+        "falcon shape",
+        "pointed wings",
+        "moustache mark",
+        "fast flight"
+      ],
+      "notes": "Powerful falcon with dark moustache mark and pointed wings."
+    },
+    {
+      "name": "Rose-ringed Parakeet",
+      "scientific": "Psittacula krameri",
+      "mode": "common",
+      "group": "Parrots & parakeets",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "red"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "parrot shape",
+        "green body",
+        "long tail",
+        "red bill",
+        "flock"
+      ],
+      "notes": "Green parakeet with long tail and red bill."
+    },
+    {
+      "name": "Red-breasted Parakeet",
+      "scientific": "Psittacula alexandri",
+      "mode": "all",
+      "group": "Parrots & parakeets",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "pink",
+        "red"
+      ],
+      "habitats": [
+        "park",
+        "forest edge",
+        "urban"
+      ],
+      "traits": [
+        "parrot shape",
+        "red bill",
+        "pink breast",
+        "long tail",
+        "flock"
+      ],
+      "notes": "Green parakeet with pinkish breast and red bill."
+    },
+    {
+      "name": "Tanimbar Corella",
+      "scientific": "Cacatua goffiniana",
+      "mode": "all",
+      "group": "Parrots & parakeets",
+      "size": "medium",
+      "main_colors": [
+        "white"
+      ],
+      "habitats": [
+        "urban",
+        "park"
+      ],
+      "traits": [
+        "parrot shape",
+        "white body",
+        "cockatoo",
+        "crest"
+      ],
+      "notes": "White cockatoo, introduced/escaped populations occur locally."
+    },
+    {
+      "name": "Long-tailed Parakeet",
+      "scientific": "Psittacula longicauda",
+      "mode": "all",
+      "group": "Parrots & parakeets",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "red",
+        "blue"
+      ],
+      "habitats": [
+        "forest",
+        "mangrove",
+        "park"
+      ],
+      "traits": [
+        "parrot shape",
+        "very long tail",
+        "red face",
+        "flock"
+      ],
+      "notes": "Native parakeet with long tail; often in forest/mangrove edges."
+    },
+    {
+      "name": "Common Flameback",
+      "scientific": "Dinopium javanense",
+      "mode": "common",
+      "group": "Woodpeckers",
+      "size": "medium",
+      "main_colors": [
+        "gold",
+        "black",
+        "white",
+        "red"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "woodpecker shape",
+        "golden back",
+        "red crest",
+        "climbs trunks",
+        "long bill"
+      ],
+      "notes": "Woodpecker with golden back; males have red crest."
+    },
+    {
+      "name": "Laced Woodpecker",
+      "scientific": "Picus vittatus",
+      "mode": "all",
+      "group": "Woodpeckers",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "black",
+        "red"
+      ],
+      "habitats": [
+        "mangrove",
+        "forest",
+        "park"
+      ],
+      "traits": [
+        "woodpecker shape",
+        "green body",
+        "red crown",
+        "climbs trunks"
+      ],
+      "notes": "Greenish woodpecker often found in wooded or mangrove habitats."
+    },
+    {
+      "name": "Sunda Scops Owl",
+      "scientific": "Otus lempiji",
+      "mode": "all",
+      "group": "Owls",
+      "size": "small",
+      "main_colors": [
+        "brown"
+      ],
+      "habitats": [
+        "forest",
+        "park",
+        "urban"
+      ],
+      "traits": [
+        "owl shape",
+        "ear tufts",
+        "night active",
+        "large eyes"
+      ],
+      "notes": "Small owl with ear tufts; often heard at night."
+    },
+    {
+      "name": "Spotted Wood Owl",
+      "scientific": "Strix seloputo",
+      "mode": "all",
+      "group": "Owls",
+      "size": "large",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "park",
+        "forest edge",
+        "urban"
+      ],
+      "traits": [
+        "owl shape",
+        "large eyes",
+        "night active",
+        "barred body"
+      ],
+      "notes": "Large owl with warm brown upperparts and barred underparts."
+    },
+    {
+      "name": "Buffy Fish Owl",
+      "scientific": "Ketupa ketupu",
+      "mode": "all",
+      "group": "Owls",
+      "size": "large",
+      "main_colors": [
+        "brown",
+        "buff"
+      ],
+      "habitats": [
+        "forest",
+        "wetland",
+        "mangrove"
+      ],
+      "traits": [
+        "owl shape",
+        "ear tufts",
+        "near water",
+        "night active"
+      ],
+      "notes": "Large fish owl with ear tufts, associated with wooded wetlands."
+    },
+    {
+      "name": "Greater Racket-tailed Drongo",
+      "scientific": "Dicrurus paradiseus",
+      "mode": "all",
+      "group": "Forest birds",
+      "size": "large",
+      "main_colors": [
+        "black"
+      ],
+      "habitats": [
+        "forest"
+      ],
+      "traits": [
+        "black bird",
+        "racket tail",
+        "forest",
+        "mimic calls"
+      ],
+      "notes": "Glossy black forest bird with long rackets on tail."
+    },
+    {
+      "name": "Greater Coucal",
+      "scientific": "Centropus sinensis",
+      "mode": "all",
+      "group": "Cuckoos",
+      "size": "large",
+      "main_colors": [
+        "black",
+        "brown"
+      ],
+      "habitats": [
+        "scrub",
+        "forest edge",
+        "grassland"
+      ],
+      "traits": [
+        "large",
+        "long tail",
+        "rufous wings",
+        "deep call"
+      ],
+      "notes": "Large cuckoo with black body, rufous wings and long tail."
+    },
+    {
+      "name": "Plaintive Cuckoo",
+      "scientific": "Cacomantis merulinus",
+      "mode": "all",
+      "group": "Cuckoos",
+      "size": "small",
+      "main_colors": [
+        "grey",
+        "brown",
+        "orange"
+      ],
+      "habitats": [
+        "scrub",
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "cuckoo shape",
+        "rufous belly",
+        "loud call",
+        "slender"
+      ],
+      "notes": "Small cuckoo, often heard before seen."
+    },
+    {
+      "name": "Blue-tailed Bee-eater",
+      "scientific": "Merops philippinus",
+      "mode": "all",
+      "group": "Bee-eaters",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "blue",
+        "brown"
+      ],
+      "habitats": [
+        "open country",
+        "coast",
+        "wetland"
+      ],
+      "traits": [
+        "bee-eater shape",
+        "long pointed bill",
+        "long tail streamers",
+        "aerial insectivore"
+      ],
+      "notes": "Colourful bee-eater with blue tail; catches insects in flight."
+    },
+    {
+      "name": "Blue-throated Bee-eater",
+      "scientific": "Merops viridis",
+      "mode": "all",
+      "group": "Bee-eaters",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "blue",
+        "orange"
+      ],
+      "habitats": [
+        "forest edge",
+        "park",
+        "open country"
+      ],
+      "traits": [
+        "bee-eater shape",
+        "blue throat",
+        "long bill",
+        "aerial insectivore"
+      ],
+      "notes": "Colourful bee-eater with blue throat and green body."
+    },
+    {
+      "name": "Pacific Swallow",
+      "scientific": "Hirundo tahitica",
+      "mode": "common",
+      "group": "Swifts & swallows",
+      "size": "small",
+      "main_colors": [
+        "blue",
+        "orange",
+        "white"
+      ],
+      "habitats": [
+        "urban",
+        "coast",
+        "open country",
+        "wetland"
+      ],
+      "traits": [
+        "swallow shape",
+        "forked tail",
+        "aerial insectivore",
+        "orange throat"
+      ],
+      "notes": "Small swallow with orange throat; often flying around buildings/open areas."
+    },
+    {
+      "name": "House Swift",
+      "scientific": "Apus nipalensis",
+      "mode": "common",
+      "group": "Swifts & swallows",
+      "size": "small",
+      "main_colors": [
+        "black",
+        "white"
+      ],
+      "habitats": [
+        "urban",
+        "open sky"
+      ],
+      "traits": [
+        "swift shape",
+        "aerial insectivore",
+        "white rump",
+        "fast flight"
+      ],
+      "notes": "Fast-flying dark swift with white rump, often around buildings."
+    },
+    {
+      "name": "Edible-nest Swiftlet",
+      "scientific": "Aerodramus fuciphagus",
+      "mode": "all",
+      "group": "Swifts & swallows",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "grey"
+      ],
+      "habitats": [
+        "urban",
+        "forest",
+        "open sky"
+      ],
+      "traits": [
+        "swift shape",
+        "aerial insectivore",
+        "crescent wings",
+        "fast flight"
+      ],
+      "notes": "Small swiftlet often seen as fast silhouettes overhead."
+    },
+    {
+      "name": "Barn Swallow",
+      "scientific": "Hirundo rustica",
+      "mode": "all",
+      "group": "Migrants",
+      "size": "small",
+      "main_colors": [
+        "blue",
+        "white",
+        "orange"
+      ],
+      "habitats": [
+        "open country",
+        "wetland",
+        "urban"
+      ],
+      "traits": [
+        "swallow shape",
+        "deeply forked tail",
+        "migrant",
+        "aerial insectivore"
+      ],
+      "notes": "Migratory swallow with long forked tail streamers."
+    },
+    {
+      "name": "Tiger Shrike",
+      "scientific": "Lanius tigrinus",
+      "mode": "all",
+      "group": "Migrants",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "forest edge",
+        "park"
+      ],
+      "traits": [
+        "shrike shape",
+        "scaly upperparts",
+        "hooked bill",
+        "migrant"
+      ],
+      "notes": "Migrant shrike with scaly/tiger-like upperparts."
+    },
+    {
+      "name": "Arctic Warbler",
+      "scientific": "Phylloscopus borealis",
+      "mode": "all",
+      "group": "Migrants",
+      "size": "tiny",
+      "main_colors": [
+        "green",
+        "white"
+      ],
+      "habitats": [
+        "forest",
+        "park",
+        "mangrove"
+      ],
+      "traits": [
+        "tiny",
+        "warbler shape",
+        "wing bar",
+        "migrant",
+        "active in foliage"
+      ],
+      "notes": "Small greenish migrant warbler with pale eyebrow and wing bar."
+    },
+    {
+      "name": "Asian Brown Flycatcher",
+      "scientific": "Muscicapa dauurica",
+      "mode": "all",
+      "group": "Migrants",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "forest edge",
+        "park",
+        "urban"
+      ],
+      "traits": [
+        "flycatcher shape",
+        "perches and sallies",
+        "migrant",
+        "plain brown"
+      ],
+      "notes": "Plain brown migrant flycatcher, often perched upright."
+    },
+    {
+      "name": "Oriental Pied Hornbill",
+      "scientific": "Anthracoceros albirostris",
+      "mode": "common",
+      "group": "Hornbills",
+      "size": "very large",
+      "main_colors": [
+        "black",
+        "white",
+        "yellow"
+      ],
+      "habitats": [
+        "forest",
+        "park",
+        "mangrove",
+        "urban"
+      ],
+      "traits": [
+        "hornbill shape",
+        "huge bill",
+        "casque",
+        "large",
+        "black and white"
+      ],
+      "notes": "Large black-and-white hornbill with huge yellowish bill and casque."
+    },
+    {
+      "name": "Hill Myna",
+      "scientific": "Gracula religiosa",
+      "mode": "all",
+      "group": "Forest birds",
+      "size": "medium",
+      "main_colors": [
+        "black",
+        "yellow",
+        "orange"
+      ],
+      "habitats": [
+        "forest"
+      ],
+      "traits": [
+        "glossy black",
+        "yellow wattles",
+        "loud call",
+        "forest"
+      ],
+      "notes": "Glossy black myna with yellow-orange wattles; loud calls."
+    },
+    {
+      "name": "Asian Fairy-bluebird",
+      "scientific": "Irena puella",
+      "mode": "all",
+      "group": "Forest birds",
+      "size": "medium",
+      "main_colors": [
+        "blue",
+        "black"
+      ],
+      "habitats": [
+        "forest"
+      ],
+      "traits": [
+        "bright blue",
+        "black body",
+        "forest canopy",
+        "fruit eater"
+      ],
+      "notes": "Striking forest bird; male is vivid blue and black."
+    },
+    {
+      "name": "Sunda Pygmy Woodpecker",
+      "scientific": "Yungipicus moluccensis",
+      "mode": "all",
+      "group": "Woodpeckers",
+      "size": "small",
+      "main_colors": [
+        "brown",
+        "white"
+      ],
+      "habitats": [
+        "park",
+        "forest edge",
+        "mangrove"
+      ],
+      "traits": [
+        "woodpecker shape",
+        "tiny woodpecker",
+        "climbs trunks",
+        "barred"
+      ],
+      "notes": "Tiny woodpecker, common in parks and wooded edges."
+    },
+    {
+      "name": "Lineated Barbet",
+      "scientific": "Psilopogon lineatus",
+      "mode": "all",
+      "group": "Garden birds",
+      "size": "medium",
+      "main_colors": [
+        "green",
+        "brown"
+      ],
+      "habitats": [
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "green body",
+        "large barbet",
+        "chunky bill",
+        "loud call"
+      ],
+      "notes": "Large greenish barbet with streaked head and loud calls."
+    },
+    {
+      "name": "Red Junglefowl",
+      "scientific": "Gallus gallus",
+      "mode": "all",
+      "group": "Ground birds",
+      "size": "large",
+      "main_colors": [
+        "red",
+        "orange",
+        "black",
+        "green"
+      ],
+      "habitats": [
+        "forest edge",
+        "park",
+        "scrub"
+      ],
+      "traits": [
+        "chicken shape",
+        "ground bird",
+        "red comb",
+        "long tail"
+      ],
+      "notes": "Wild ancestor of domestic chicken; males colourful with red comb."
+    },
+    {
+      "name": "White-crested Laughingthrush",
+      "scientific": "Garrulax leucolophus",
+      "mode": "all",
+      "group": "Introduced birds",
+      "size": "medium",
+      "main_colors": [
+        "white",
+        "brown"
+      ],
+      "habitats": [
+        "park",
+        "forest edge"
+      ],
+      "traits": [
+        "white crest",
+        "noisy flock",
+        "brown body"
+      ],
+      "notes": "Introduced laughingthrush with white crest, often in noisy groups."
+    },
+    {
+      "name": "Red-whiskered Bulbul",
+      "scientific": "Pycnonotus jocosus",
+      "mode": "all",
+      "group": "Introduced birds",
+      "size": "medium",
+      "main_colors": [
+        "brown",
+        "white",
+        "red",
+        "black"
+      ],
+      "habitats": [
+        "urban",
+        "park",
+        "scrub"
+      ],
+      "traits": [
+        "crest",
+        "red cheek patch",
+        "bulbul shape"
+      ],
+      "notes": "Crested bulbul with red whisker patch; introduced."
+    }
+  ],
+  "questions": [
+    {
+      "key": "habitat_water",
+      "text": "Was it near water, mudflats, reservoirs, canals, mangroves, or the coast?",
+      "test": {
+        "habitats_any": [
+          "wetland",
+          "coast",
+          "mangrove",
+          "reservoir",
+          "pond",
+          "canal",
+          "stream",
+          "mudflat",
+          "reedbed"
+        ]
+      }
+    },
+    {
+      "key": "habitat_urban",
+      "text": "Was it in a very urban place, like buildings, roads, HDB areas, or city parks?",
+      "test": {
+        "habitats_any": [
+          "urban"
+        ]
+      }
+    },
+    {
+      "key": "habitat_forest",
+      "text": "Was it mainly in forest, dense vegetation, or a wooded nature reserve?",
+      "test": {
+        "habitats_any": [
+          "forest",
+          "forest edge",
+          "forest stream"
+        ]
+      }
+    },
+    {
+      "key": "very_large",
+      "text": "Was it very large, around heron/eagle/hornbill size?",
+      "test": {
+        "size_any": [
+          "very large"
+        ]
+      }
+    },
+    {
+      "key": "larger_than_myna",
+      "text": "Was it bigger than a myna?",
+      "test": {
+        "size_any": [
+          "large",
+          "very large"
+        ]
+      }
+    },
+    {
+      "key": "tiny",
+      "text": "Was it tiny, like a sunbird, flowerpecker, munia, warbler or swift?",
+      "test": {
+        "size_any": [
+          "tiny"
+        ]
+      }
+    },
+    {
+      "key": "mostly_black",
+      "text": "Was it mostly black or blackish?",
+      "test": {
+        "colors_any": [
+          "black"
+        ]
+      }
+    },
+    {
+      "key": "mostly_brown",
+      "text": "Was it mostly brownish?",
+      "test": {
+        "colors_any": [
+          "brown"
+        ]
+      }
+    },
+    {
+      "key": "obvious_white",
+      "text": "Did it have obvious white patches or white body parts?",
+      "test": {
+        "colors_any": [
+          "white"
+        ]
+      }
+    },
+    {
+      "key": "bright_yellow_or_orange",
+      "text": "Did it show obvious yellow or orange?",
+      "test": {
+        "colors_any": [
+          "yellow",
+          "orange",
+          "gold"
+        ]
+      }
+    },
+    {
+      "key": "bright_blue_or_green",
+      "text": "Did it show obvious blue or green?",
+      "test": {
+        "colors_any": [
+          "blue",
+          "green"
+        ]
+      }
+    },
+    {
+      "key": "red_features",
+      "text": "Did it have obvious red parts, like red eyes, red bill, red crown, or red patches?",
+      "test": {
+        "colors_any": [
+          "red"
+        ],
+        "traits_any": [
+          "red eye",
+          "red bill",
+          "red forehead",
+          "red crown",
+          "red cheek patch"
+        ]
+      }
+    },
+    {
+      "key": "long_legs",
+      "text": "Did it have long legs like a heron, egret, waterhen, or shorebird?",
+      "test": {
+        "traits_any": [
+          "long legs",
+          "wader shape"
+        ]
+      }
+    },
+    {
+      "key": "long_bill",
+      "text": "Did it have a long or dagger-like bill?",
+      "test": {
+        "traits_any": [
+          "long bill",
+          "long red bill",
+          "very large bill",
+          "long curved bill"
+        ]
+      }
+    },
+    {
+      "key": "hooked_bill",
+      "text": "Did it have a hooked bill, like a raptor, parrot, falcon, or shrike?",
+      "test": {
+        "traits_any": [
+          "hooked bill"
+        ]
+      }
+    },
+    {
+      "key": "long_tail",
+      "text": "Did it have a noticeably long tail?",
+      "test": {
+        "traits_any": [
+          "long tail",
+          "very long tail",
+          "racket tail",
+          "forked tail",
+          "deeply forked tail"
+        ]
+      }
+    },
+    {
+      "key": "crest",
+      "text": "Did it have a crest or raised feathers on the head?",
+      "test": {
+        "traits_any": [
+          "crest",
+          "red crest",
+          "white crest",
+          "ear tufts",
+          "slight crest",
+          "casque"
+        ]
+      }
+    },
+    {
+      "key": "flock",
+      "text": "Was it in a group or flock?",
+      "test": {
+        "traits_any": [
+          "flock",
+          "noisy flock"
+        ]
+      }
+    },
+    {
+      "key": "swims",
+      "text": "Was it swimming on water?",
+      "test": {
+        "traits_any": [
+          "swims",
+          "duck shape",
+          "dives"
+        ]
+      }
+    },
+    {
+      "key": "raptor",
+      "text": "Did it look like a bird of prey, soaring/hunting with a hooked beak?",
+      "test": {
+        "traits_any": [
+          "raptor shape",
+          "falcon shape",
+          "soars"
+        ]
+      }
+    },
+    {
+      "key": "kingfisher",
+      "text": "Did it look like a kingfisher, with a big head and dagger-like bill?",
+      "test": {
+        "traits_any": [
+          "kingfisher shape"
+        ]
+      }
+    },
+    {
+      "key": "parrot",
+      "text": "Did it look like a parrot or parakeet?",
+      "test": {
+        "traits_any": [
+          "parrot shape",
+          "cockatoo"
+        ]
+      }
+    },
+    {
+      "key": "woodpecker",
+      "text": "Did it cling to trunks or look like a woodpecker?",
+      "test": {
+        "traits_any": [
+          "woodpecker shape",
+          "climbs trunks",
+          "tiny woodpecker"
+        ]
+      }
+    },
+    {
+      "key": "owl",
+      "text": "Did it look like an owl or was it active/calling at night?",
+      "test": {
+        "traits_any": [
+          "owl shape",
+          "night active",
+          "night call",
+          "large eyes"
+        ]
+      }
+    },
+    {
+      "key": "aerial",
+      "text": "Was it mostly flying around catching insects, like a swift or swallow?",
+      "test": {
+        "traits_any": [
+          "aerial insectivore",
+          "swift shape",
+          "swallow shape"
+        ]
+      }
+    },
+    {
+      "key": "ground",
+      "text": "Was it mostly walking on the ground?",
+      "test": {
+        "traits_any": [
+          "walks on ground",
+          "ground bird",
+          "chicken shape"
+        ]
+      }
+    },
+    {
+      "key": "migrant",
+      "text": "Was it likely a migrant or seen during migration/winter season?",
+      "test": {
+        "traits_any": [
+          "migrant"
+        ]
+      }
+    },
+    {
+      "key": "loud_call",
+      "text": "Was the call especially obvious, loud, repetitive, or famous?",
+      "test": {
+        "traits_any": [
+          "loud call",
+          "repetitive call",
+          "whistling call",
+          "deep call",
+          "mimic calls"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Singapore Bird Guesser</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+    <h1>Singapore Bird Guesser</h1>
+    <p>Think of a local bird — answer yes, no, or not sure, and the app will narrow it down.</p>
+    <div class="header-badges">
+        <span class="badge badge-green">20 Questions</span>
+        <span class="badge badge-yellow"><span id="bird-count">0</span> species loaded</span>
+    </div>
+</header>
+
+<!-- GAME SETUP -->
+<div class="search-row" id="setup-row">
+    <select id="mode-select" aria-label="Game mode">
+        <option value="common">Common mode</option>
+        <option value="all">Full starter database</option>
+    </select>
+    <button id="start-btn">Start game</button>
+</div>
+
+<!-- TOPIC CHIPS -->
+<div class="topic-chips-wrap">
+    <div class="chips-label">Quick filters</div>
+    <div class="topic-chips">
+        <button class="chip" data-mode="common">Common birds</button>
+        <button class="chip" data-mode="all">Full starter database</button>
+        <button class="chip" id="show-all-birds">Browse species</button>
+    </div>
+</div>
+
+<!-- STATS -->
+<div id="stats"></div>
+
+<!-- MAIN GAME -->
+<div id="game-wrap">
+    <div class="paper-block" id="question-block">
+        <div class="paper-block-header">
+            <div class="paper-block-title" id="game-title">Ready to guess?</div>
+            <div class="paper-block-meta" id="game-meta">Pick a mode and start.</div>
+        </div>
+
+        <div class="paper-block-abstract">
+            <p id="question-text">Use Common mode for familiar Singapore birds, or Full starter database for a harder game.</p>
+        </div>
+
+        <div class="answer-grid" id="answer-grid">
+            <button class="answer-btn" data-answer="yes">Yes</button>
+            <button class="answer-btn answer-no" data-answer="no">No</button>
+            <button class="answer-btn answer-unknown" data-answer="unknown">Not sure</button>
+        </div>
+
+        <div class="progress-shell">
+            <div id="progress-bar"></div>
+        </div>
+    </div>
+</div>
+
+<!-- RESULTS / CANDIDATES -->
+<div id="results-grid" class="grid"></div>
+
+<!-- EMPTY -->
+<div id="empty-state">
+    <div class="empty-icon">🐦</div>
+    <div class="empty-title">No birds match that answer set</div>
+    <div class="empty-sub">One answer probably filtered it out. Hit restart and try “not sure” for ambiguous traits.</div>
+</div>
+
+<!-- ERROR -->
+<div id="error-state">
+    <div class="error-title">Error</div>
+    <div class="error-msg" id="error-msg"></div>
+</div>
+
+<!-- HISTORY -->
+<div class="paper-block hidden" id="history-block">
+    <div class="paper-block-header">
+        <div class="paper-block-title">Answer history</div>
+        <div class="paper-block-meta">What you have answered so far</div>
+    </div>
+    <ol id="history-list"></ol>
+</div>
+
+<!-- FOOTER ACTIONS -->
+<div class="footer-actions">
+    <button id="undo-btn" class="secondary-btn">Undo</button>
+    <button id="restart-btn" class="secondary-btn">Restart</button>
+</div>
+
+<!-- MODAL -->
+<div id="modal">
+    <div class="modal-inner">
+        <div class="modal-header">
+            <span class="modal-label" id="modal-label">Bird</span>
+            <button class="modal-close" id="modal-close">✕</button>
+        </div>
+        <div class="modal-img-wrap">
+            <div class="modal-bird-icon">🐦</div>
+        </div>
+        <div class="modal-caption" id="modal-caption"></div>
+        <div class="modal-paper" id="modal-paper"></div>
+    </div>
+</div>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
