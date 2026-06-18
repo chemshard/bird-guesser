@@ -248,6 +248,10 @@ function wireEvents() {
 }
 
 function init() {
+  const birdCountEl = $("birdCount");
+  if (birdCountEl && window.BIRD_DATABASE) {
+    birdCountEl.textContent = window.BIRD_DATABASE.length;
+  }
   wireEvents();
 }
 
